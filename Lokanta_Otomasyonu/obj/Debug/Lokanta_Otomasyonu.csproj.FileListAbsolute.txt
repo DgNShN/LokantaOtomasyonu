@@ -1,0 +1,11 @@
+D:\Lokanta_Otomasyonu\Lokanta_Otomasyonu\bin\Debug\Lokanta_Otomasyonu.exe.config
+D:\Lokanta_Otomasyonu\Lokanta_Otomasyonu\bin\Debug\Lokanta_Otomasyonu.exe
+D:\Lokanta_Otomasyonu\Lokanta_Otomasyonu\bin\Debug\Lokanta_Otomasyonu.pdb
+D:\Lokanta_Otomasyonu\Lokanta_Otomasyonu\obj\Debug\Lokanta_Otomasyonu.csproj.AssemblyReference.cache
+D:\Lokanta_Otomasyonu\Lokanta_Otomasyonu\obj\Debug\Lokanta_Otomasyonu.csproj.SuggestedBindingRedirects.cache
+D:\Lokanta_Otomasyonu\Lokanta_Otomasyonu\obj\Debug\Lokanta_Otomasyonu.Form1.resources
+D:\Lokanta_Otomasyonu\Lokanta_Otomasyonu\obj\Debug\Lokanta_Otomasyonu.Properties.Resources.resources
+D:\Lokanta_Otomasyonu\Lokanta_Otomasyonu\obj\Debug\Lokanta_Otomasyonu.csproj.GenerateResource.cache
+D:\Lokanta_Otomasyonu\Lokanta_Otomasyonu\obj\Debug\Lokanta_Otomasyonu.csproj.CoreCompileInputs.cache
+D:\Lokanta_Otomasyonu\Lokanta_Otomasyonu\obj\Debug\Lokanta_Otomasyonu.exe
+D:\Lokanta_Otomasyonu\Lokanta_Otomasyonu\obj\Debug\Lokanta_Otomasyonu.pdb
